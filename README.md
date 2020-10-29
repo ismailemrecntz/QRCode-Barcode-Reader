@@ -1,1 +1,1 @@
-# QR and Barcode Reader 
+# QR and Barcode Reader with OpenCV
